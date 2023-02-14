@@ -1,0 +1,8 @@
+evn: env
+  print environment
+
+options:
+	NONE
+
+      Return environment to standard output.
+
